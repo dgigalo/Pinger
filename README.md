@@ -1,5 +1,6 @@
 # Pinger
 Pinger - система проверки ресурсов
+![Main Screen](https://3.bp.blogspot.com/-NwZhl1UrIlE/XBuWonCgPzI/AAAAAAAAEXw/oOlfCpzhFykwDviy5KS_4-oyC5CtjMLoQCLcBGAs/s320/1.png)
 
 Данная утилита предназначена для тестирования сетевых ресурсов посредством ping'a  и tcping'a. 
 
